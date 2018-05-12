@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1808
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Sherlock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26204#A-Letter-from-the-Lord-Bishop-of-London-to-the-Clergy-and-People-of-London-and-Westminster--O_
 gutenberg_issued: '2008-08-06'
 gutenberg_type: Text
 identifiers:
